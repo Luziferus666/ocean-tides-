@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ocean Tides</title>
+  <link rel="stylesheet" href="padrao.css" />
+</head>
+<body>
+
+  <!-- Navegação -->
+  <header class="navegacao-barra">
+    <img src="c:\Users\Aluno\Downloads\ocean_tides__2_-removebg-preview (1).png" alt="Logo" class="logo" />
+    <div class="navegacao">
+      <nav>
+        <ul>
+          <li><a href="#">Sobre nós</a></li>
+          <li><a href="#">Newsletter</a></li>
+          <li><a href="#">Loja</a></li>
+          <li><a href="#">Contribuir</a></li>
+        </ul>
+      </nav>
+    </div>
+    <hr />
+  </header>
+
+  <!-- Slider Inicial -->
+  <section class="slider-inicial" style="background-color: #2c356b;">
+    <div class="imagens">
+      <img src="c:\Users\Aluno\Downloads\baca7f2f14df8aa0e3c307f978e13268.jpg" alt="Imagem de Fundo" class="fundo" />
+    </div>
+    <div class="conteudo">
+      <h1>LOREM IPSUM DOLOR SIT AMET</h1>
+      <p>LOREM IPSUM COLOR SIT AMET ELIT</p>
+      <p>PHASE COLOR SIT A ELEMENTUM RISUS</p>
+      <p>DUIS SIT A MET</p>
+      <button>SAIBA MAIS</button>
+    </div>
+  </section>
+
+  <!-- Sessão 1 -->
+  <section style="background-color: #000000; padding: 5vh 5vw; display: flex; justify-content: center; align-items: center; gap: 3vw; flex-wrap: wrap; text-align: center;">
+
+  <!-- Texto da esquerda -->
+  <div style="flex: 1; min-width: 250px; color: white; display: flex; align-items: center; justify-content: center;">
+    <div>
+      <h3>LOREM IPSUM</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis.</p>
+    </div>
+  </div>
+
+  <!-- Imagem ao centro com botão embaixo -->
+  <div style="flex: 1; min-width: 300px; color: white; display: flex; flex-direction: column; align-items: center;">
+    <img src="c:\Users\Aluno\Desktop\atividade do bruno\2f9293e4ee7a533601ef03cf268dd6dc-gpMedium.jpg" alt="Imagem Sessão 1" style="width: 100%; max-width: 500px; height: auto; object-fit: cover; border-radius: 8px; margin-bottom: 2vh;" />
+    <button style="margin-top: 1vh; padding: 14px 28px; background-color: white; color: rgb(255, 255, 255); border: none; border-radius: 6px; cursor: pointer;">SAIBA MAIS</button>
+  </div>
+
+  <!-- Texto da direita -->
+  <div style="flex: 1; min-width: 250px; color: white; display: flex; align-items: center; justify-content: center;">
+    <div>
+      <h3>LOREM IPSUM</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis.</p>
+    </div>
+  </div>
+
+</section>
+
+<!-- novo coiso -->
+
+ <section class="slider-inicial" style="background-color: #2c356b;">
+    <div class="imagens">
+      <img src="c:\Users\Aluno\Downloads\39b9ef43569d43320d8b3b8af6381196.jpg" alt="Imagem de Fundo" class="fundo" />
+    </div>
+    <div class="conteudo">
+      <h1>LOREM IPSUM DOLOR SIT AMET</h1>
+      <p>LOREM IPSUM COLOR SIT AMET ELIT</p>
+      <p>PHASE COLOR SIT A ELEMENTUM RISUS</p>
+      <p>DUIS SIT A MET</p>
+      <button>SAIBA MAIS</button>
+    </div>
+  </section> 
+
+<!-- final do novo coiso -->
+
+  <!-- Newsletter Items -->
+  <section style="background-color: #000000; padding: 5vh 5vw; text-align: center;">
+  <h2 style="color: white;">CONHEÇA NOSSOS SERVIÇOS</h2>
+  <div style="display: flex; justify-content: center; gap: 3vw; flex-wrap: wrap; margin-top: 3vh;">
+
+    <div style="background-color: white; border-radius: 16px; padding: 2vh 2vw; width: 280px;">
+      <img src="c:\Users\Aluno\Desktop\atividade do bruno\RJ_Angra_animais_marinhos_resgatados_reabilitacao_natureza.jpg" alt="Imagem 1" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5vh;" />
+      <h3>LOREM IPSUM</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur.</p>
+    </div>
+
+    <div style="background-color: white; border-radius: 16px; padding: 2vh 2vw; width: 280px;">
+      <img src="c:\Users\Aluno\Desktop\atividade do bruno\Governo-Federal-lanca-Plano-Nacional-de-Combate-ao-Lixo-no-Mar.jpg" alt="Imagem 2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5vh;" />
+      <h3>LOREM IPSUM</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur.</p>
+    </div>
+
+    <div style="background-color: white; border-radius: 16px; padding: 2vh 2vw; width: 280px;">
+      <img src="c:\Users\Aluno\Desktop\atividade do bruno\download.jpg" alt="Imagem 3" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5vh;" />
+      <h3>LOREM IPSUM</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur.</p>
+    </div>
+
+    <div style="background-color: white; border-radius: 16px; padding: 2vh 2vw; width: 280px;">
+      <img src="c:\Users\Aluno\Desktop\atividade do bruno\download.jpg" alt="Imagem 4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5vh;" />
+      <h3>LOREM IPSUM</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur.</p>
+    </div>
+
+    <div style="background-color: white; border-radius: 16px; padding: 2vh 2vw; width: 280px;">
+      <img src="c:\Users\Aluno\Desktop\atividade do bruno\download.jpg" alt="Imagem 5" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5vh;" />
+      <h3>LOREM IPSUM</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur.</p>
+    </div>
+
+    <div style="background-color: white; border-radius: 16px; padding: 2vh 2vw; width: 280px;">
+      <img src="c:\Users\Aluno\Desktop\atividade do bruno\download.jpg" alt="Imagem 6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5vh;" />
+      <h3>LOREM IPSUM</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur.</p>
+    </div>
+
+    <div style="background-color: white; border-radius: 16px; padding: 2vh 2vw; width: 280px;">
+      <img src="c:\Users\Aluno\Desktop\atividade do bruno\download.jpg" alt="Imagem 6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5vh;" />
+      <h3>LOREM IPSUM</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur.</p>
+    </div>
+
+    <div style="background-color: white; border-radius: 16px; padding: 2vh 2vw; width: 280px;">
+      <img src="c:\Users\Aluno\Desktop\atividade do bruno\download.jpg" alt="Imagem 6" style="width: 100%; height: 150px; object-fit: cover; border-radius: 12px; margin-bottom: 1.5vh;" />
+      <h3>LOREM IPSUM</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur.</p>
+    </div>
+
+  </div>
+</section>
+
+  <!-- Rodapé -->
+  <footer style="background-color: #003344; color: white; display: flex; justify-content: space-between; padding: 2vh 5vw;">
+    <p>LOREM IPSUM DOLOR</p>
+    <p>LOREM IPSUM DOLOR</p>
+    <p>LOREM IPSUM DOLOR</p>
+    <p>LOREM IPSUM DOLOR</p>
+  </footer>
+
+</body>
+</html>
